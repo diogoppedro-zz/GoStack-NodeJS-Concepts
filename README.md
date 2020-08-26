@@ -31,9 +31,8 @@ So why not use PUT instead of POST? Precisely because we are "creating" A new li
 
 It may be difficult to see because it is just a number, but think that each like is saved in a table in the database with the user who added this like. Now it’s clearer that you’re creating a new like, right?
 
-Good studies <3
 
-Tests Specification
+# Tests Specification
 In each test, you have a brief description of what your application must do in order for the test suits pass.
 
 If you have questions about what the tests are, and how to interpret them, take a look at [our FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq- challenges).
